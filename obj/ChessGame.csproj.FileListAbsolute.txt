@@ -1,0 +1,190 @@
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\obj\x86\Debug\ChessGame.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\ChessGame.exe
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\ChessGame.pdb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\obj\x86\Debug\ChessGame.exe
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\obj\x86\Debug\ChessGame.pdb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\GameSquare.xnb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\Whites.xnb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\gamesqaure.PNG
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\whites.png
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\ChessSetLight.xnb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\Help.xnb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\Options.xnb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\PlayGame.xnb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\quit.xnb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\Welcome.xnb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\Help.png
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\Options.png
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\PlayGame.png
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\quit.png
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\Welcome.png
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\OptionsMenu.xnb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\obj\x86\Debug\ChessGame.HelpLauncher.resources
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\obj\x86\Debug\ChessGame.csproj.GenerateResource.Cache
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\obj\x86\Debug\ChessGame.Properties.Resources.resources
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\BishopMoves.xnb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\KingMoves.xnb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\KnightMoves.xnb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\PawnMoves.xnb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\QueenMoves.xnb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\RookMoves.xnb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\TopBar.xnb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\Bishop.xnb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\King.xnb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\Knight.xnb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\pawn.xnb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\Queen.xnb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\rook.xnb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\ChessSetLight.png
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\OptionsMenu.png
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\SpriteFont1.spritefont
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\SpriteFont2.spritefont
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\BishopMoves.png
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\KingMoves.png
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\KnightMoves.png
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\PawnMoves.png
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\QueenMoves.png
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\RookMoves.png
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\TopBar.png
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\Bishop.png
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\King.png
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\Knight.png
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\pawn.png
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\Queen.png
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\rook.png
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\Castling.xnb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\FullSet.xnb
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\obj\x86\Debug\ChessGame.Help.resources
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\obj\x86\Debug\ChessGame.Options.resources
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\Castling.png
+C:\Documents and Settings\Magnus\My Documents\Visual Studio 2005\Projects\SE319 Chess\ChessGame\bin\x86\Debug\Content\FullSet.png
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\gamesqaure.PNG
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\whites.png
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\Help.png
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\Options.png
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\PlayGame.png
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\quit.png
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\Welcome.png
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\ChessSetLight.png
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\OptionsMenu.png
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\SpriteFont1.spritefont
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\SpriteFont2.spritefont
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\BishopMoves.png
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\KingMoves.png
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\KnightMoves.png
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\PawnMoves.png
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\QueenMoves.png
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\RookMoves.png
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\TopBar.png
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\Bishop.png
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\King.png
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\Knight.png
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\pawn.png
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\Queen.png
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\rook.png
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\Castling.png
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\FullSet.png
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\ChessGame.exe
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\ChessGame.pdb
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\obj\x86\Debug\ChessGame.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\obj\x86\Debug\ChessGame.Help.resources
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\obj\x86\Debug\ChessGame.Options.resources
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\obj\x86\Debug\ChessGame.Properties.Resources.resources
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\obj\x86\Debug\ChessGame.csproj.GenerateResource.Cache
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\obj\x86\Debug\ChessGame.exe
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\obj\x86\Debug\ChessGame.pdb
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\GameSquare.xnb
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\Whites.xnb
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\Help.xnb
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\Options.xnb
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\PlayGame.xnb
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\quit.xnb
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\Welcome.xnb
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\ChessSetLight.xnb
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\OptionsMenu.xnb
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\BishopMoves.xnb
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\KingMoves.xnb
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\KnightMoves.xnb
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\PawnMoves.xnb
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\QueenMoves.xnb
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\RookMoves.xnb
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\TopBar.xnb
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\Bishop.xnb
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\King.xnb
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\Knight.xnb
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\pawn.xnb
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\Queen.xnb
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\rook.xnb
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\Castling.xnb
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\FullSet.xnb
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\SpriteFont1.xnb
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\SpriteFont2.xnb
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\gamesqaure.PNG
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\whites.png
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\Help.png
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\Options.png
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\PlayGame.png
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\quit.png
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\Welcome.png
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\ChessSetLight.png
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\OptionsMenu.png
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\SpriteFont1.spritefont
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\SpriteFont2.spritefont
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\BishopMoves.png
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\KingMoves.png
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\KnightMoves.png
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\PawnMoves.png
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\QueenMoves.png
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\RookMoves.png
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\TopBar.png
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\Bishop.png
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\King.png
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\Knight.png
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\pawn.png
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\Queen.png
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\rook.png
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\Castling.png
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\Content\FullSet.png
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\ChessGame.exe
+\\Magnus-xp\se 319 project\ChessGame\bin\x86\Debug\ChessGame.pdb
+\\Magnus-xp\se 319 project\ChessGame\obj\x86\Debug\ResolveAssemblyReference.cache
+\\Magnus-xp\se 319 project\ChessGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\Magnus-xp\se 319 project\ChessGame\obj\x86\Debug\ChessGame.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+\\Magnus-xp\se 319 project\ChessGame\obj\x86\Debug\ChessGame.Help.resources
+\\Magnus-xp\se 319 project\ChessGame\obj\x86\Debug\ChessGame.Options.resources
+\\Magnus-xp\se 319 project\ChessGame\obj\x86\Debug\ChessGame.Properties.Resources.resources
+\\Magnus-xp\se 319 project\ChessGame\obj\x86\Debug\ChessGame.csproj.GenerateResource.Cache
+\\Magnus-xp\se 319 project\ChessGame\obj\x86\Debug\ChessGame.exe
+\\Magnus-xp\se 319 project\ChessGame\obj\x86\Debug\ChessGame.pdb
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\GameSquare.xnb
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\Whites.xnb
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\Help.xnb
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\Options.xnb
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\PlayGame.xnb
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\quit.xnb
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\Welcome.xnb
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\ChessSetLight.xnb
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\OptionsMenu.xnb
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\BishopMoves.xnb
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\KingMoves.xnb
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\KnightMoves.xnb
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\PawnMoves.xnb
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\QueenMoves.xnb
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\RookMoves.xnb
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\TopBar.xnb
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\Bishop.xnb
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\King.xnb
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\Knight.xnb
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\pawn.xnb
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\Queen.xnb
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\rook.xnb
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\Castling.xnb
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\FullSet.xnb
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\SpriteFont2.xnb

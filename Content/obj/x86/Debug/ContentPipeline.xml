@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>gamesqaure.PNG</Source>
+      <Name>GameSquare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\GameSquare.xnb</Output>
+      <Time>2008-03-24T18:35:40.39025-08:00</Time>
+    </Item>
+    <Item>
+      <Source>whites.png</Source>
+      <Name>Whites</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\Whites.xnb</Output>
+      <Time>2008-03-24T18:35:55.984-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Help.png</Source>
+      <Name>Help</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\Help.xnb</Output>
+      <Time>2008-04-09T19:34:28.06225-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Options.png</Source>
+      <Name>Options</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\Options.xnb</Output>
+      <Time>2008-04-09T19:34:28.06225-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayGame.png</Source>
+      <Name>PlayGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\PlayGame.xnb</Output>
+      <Time>2008-04-09T19:34:28.06225-07:00</Time>
+    </Item>
+    <Item>
+      <Source>quit.png</Source>
+      <Name>quit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\quit.xnb</Output>
+      <Time>2008-04-09T19:34:28.06225-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Welcome.png</Source>
+      <Name>Welcome</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\Welcome.xnb</Output>
+      <Time>2008-04-09T19:42:37.265375-07:00</Time>
+    </Item>
+    <Item>
+      <Source>ChessSetLight.png</Source>
+      <Name>ChessSetLight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\ChessSetLight.xnb</Output>
+      <Time>2008-04-09T20:23:31.452875-07:00</Time>
+    </Item>
+    <Item>
+      <Source>OptionsMenu.png</Source>
+      <Name>OptionsMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\OptionsMenu.xnb</Output>
+      <Time>2008-04-09T20:35:35.43725-07:00</Time>
+    </Item>
+    <Item>
+      <Source>BishopMoves.png</Source>
+      <Name>BishopMoves</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\BishopMoves.xnb</Output>
+      <Time>2008-04-21T23:45:25.655625-07:00</Time>
+    </Item>
+    <Item>
+      <Source>KingMoves.png</Source>
+      <Name>KingMoves</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\KingMoves.xnb</Output>
+      <Time>2008-04-21T23:45:25.67125-07:00</Time>
+    </Item>
+    <Item>
+      <Source>KnightMoves.png</Source>
+      <Name>KnightMoves</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\KnightMoves.xnb</Output>
+      <Time>2008-04-21T23:45:25.67125-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PawnMoves.png</Source>
+      <Name>PawnMoves</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\PawnMoves.xnb</Output>
+      <Time>2008-04-21T23:45:25.686875-07:00</Time>
+    </Item>
+    <Item>
+      <Source>QueenMoves.png</Source>
+      <Name>QueenMoves</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\QueenMoves.xnb</Output>
+      <Time>2008-04-21T23:45:25.686875-07:00</Time>
+    </Item>
+    <Item>
+      <Source>RookMoves.png</Source>
+      <Name>RookMoves</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\RookMoves.xnb</Output>
+      <Time>2008-04-21T23:45:25.7025-07:00</Time>
+    </Item>
+    <Item>
+      <Source>TopBar.png</Source>
+      <Name>TopBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\TopBar.xnb</Output>
+      <Time>2008-04-21T23:45:25.655625-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Bishop.png</Source>
+      <Name>Bishop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\Bishop.xnb</Output>
+      <Time>2008-04-21T23:45:37.030625-07:00</Time>
+    </Item>
+    <Item>
+      <Source>King.png</Source>
+      <Name>King</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\King.xnb</Output>
+      <Time>2008-04-21T23:45:37.04625-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Knight.png</Source>
+      <Name>Knight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\Knight.xnb</Output>
+      <Time>2008-04-21T23:45:37.04625-07:00</Time>
+    </Item>
+    <Item>
+      <Source>pawn.png</Source>
+      <Name>pawn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\pawn.xnb</Output>
+      <Time>2008-04-21T23:45:37.061875-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Queen.png</Source>
+      <Name>Queen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\Queen.xnb</Output>
+      <Time>2008-04-21T23:45:37.0775-07:00</Time>
+    </Item>
+    <Item>
+      <Source>rook.png</Source>
+      <Name>rook</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\rook.xnb</Output>
+      <Time>2008-04-21T23:45:37.015-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Castling.png</Source>
+      <Name>Castling</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\Castling.xnb</Output>
+      <Time>2008-04-22T02:51:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>FullSet.png</Source>
+      <Name>FullSet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\FullSet.xnb</Output>
+      <Time>2008-04-22T02:19:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2008-04-14T10:53:20.234375-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
+      <Time>2008-04-22T21:23:42.49925-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <RootDirectory>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\All Users\Documents\SE 319 Project\ChessGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2007-11-28T13:08:00-08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2007-11-28T13:08:42-08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2007-11-28T13:08:30-08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2007-11-28T13:07:44-08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\2.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-02-28T20:05:19.203125-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
